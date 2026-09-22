@@ -2,7 +2,7 @@
 
 > Secure appointment scheduling connecting students and teachers with availability management and JWT auth.
 
-**Live Demo:** `Add your Vercel/Render link here` | **GitHub:** `github.com/Ch-NikhilReddy/Student-Teacher`
+**Live Demo:** `https://student-teacher-shym.vercel.app/` | **GitHub:** `github.com/Ch-NikhilReddy/Student-Teacher`
 
 ![MERN](https://img.shields.io/badge/Stack-MERN%20%7C%20JWT-blue)
 ![Auth](https://img.shields.io/badge/Auth-JWT%20%7C%20RBAC-orange)
